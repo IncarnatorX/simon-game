@@ -1,3 +1,3 @@
 # simon-game
 
-https://user-vishnu.github.io/simon-game/
+https://IncarnatorX.github.io/simon-game/
